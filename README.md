@@ -7,5 +7,5 @@ There is a book selling website who already have data of all the users who purch
 ## Solution:- 
 Understand all the data, clean the data, remove all the outliers that doesn't fit into your datas, convert the dataset in useable data and then bulid a model.
 
-##Result:- 
+## Result:- 
 Got top 5 books as a cluster by using cosine distance(Normalized Euclidean Distance)
